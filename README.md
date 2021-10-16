@@ -1,4 +1,6 @@
-# meu-electron
+# Consulta IP 
+
+É um dos meus primeiros projetos com Vue.js e Electron, usando a biblioteca Vuetify, é simples mas opera com o uso do axios e entrega uma boa performace. 
 
 ## Project setup
 ```
